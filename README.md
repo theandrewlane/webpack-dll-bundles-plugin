@@ -1,3 +1,4 @@
+Updated to use newer versions of Typescript and webpack/node types
 
 # Webpack Dll Bundle plugin
 A Plugin for Webpack that uses Webpack's `DllPlugin` & `DllReferencePlugin` to create bundle configurations as part of the build process.
